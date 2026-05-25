@@ -129,6 +129,7 @@ python spectral_ele251206.py
 ## Data
 
 Input satellite imagery data is not included in this repository due to file size constraints.
+AVIRIS data are publicly available from the NASA AVIRIS Data Portal (https://aviris.jpl.nasa.gov/dataportal/). ASTER and EMIT data are available from the NASA EARTHDATA Portal (https://search.earthdata.nasa.gov/). HISUI data can be obtained through the Tellus platform (https://www.tellusxdp.com/).
 
 ---
 
