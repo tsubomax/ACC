@@ -126,15 +126,14 @@ python spectral_ele251206.py
 
 ---
 
-## Data
+## Code, Data, and Materials Availability
 
-Input satellite imagery data is not included in this repository due to file size constraints.
+The source code for this study is available at [https://github.com/tsubomax/ACC](https://github.com/tsubomax/ACC).
+
 AVIRIS data are publicly available from the NASA AVIRIS Data Portal (https://aviris.jpl.nasa.gov/dataportal/). ASTER and EMIT data are available from the NASA EARTHDATA Portal (https://search.earthdata.nasa.gov/). HISUI data can be obtained through the Tellus platform (https://www.tellusxdp.com/).
 
 ---
 
 ## License
 
-This code is provided for academic reproducibility of the associated JARS publication.
-
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
